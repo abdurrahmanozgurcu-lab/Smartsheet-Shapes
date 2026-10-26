@@ -1,0 +1,19 @@
+BPMN 2.0 Icons distributed in this package are sourced from bpmn-io/bpmn-font.
+
+Code portions are licensed under the MIT License.
+Font/Graphic assets are licensed under the SIL Open Font License 1.1.
+
+----------------------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+----------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, 
+modify, redistribute, and sell modified and unmodified copies of 
+the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any individual components thereof,
+may be sold by itself.
+2) Reserved Font Names or Modified Versions of the Font Software may 
+be bundled, redistributed and/or sold with any software, provided 
+that each copy contains the above copyright notice and this license.
+----------------------------------------------------------------------
