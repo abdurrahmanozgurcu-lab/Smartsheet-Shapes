@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 228.44 150.75">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: RoobertPRO-Regular, 'Roobert PRO';
+        font-size: 20px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #1a1a1a;
+        stroke-miterlimit: 10;
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Premium_Apps" data-name="Premium Apps">
+    <g id="Calendar_App" data-name="Calendar App">
+      <rect class="cls-2" x=".38" y=".38" width="227.69" height="150" rx="11.3" ry="11.3"/>
+      <text class="cls-1" transform="translate(50.82 135.83)"><tspan class="cls-5" x="0" y="0">C</tspan><tspan x="14.34" y="0">alenda</tspan><tspan class="cls-3" x="78.3" y="0">r</tspan><tspan class="cls-4" x="85.2" y="0"> </tspan><tspan x="89.38" y="0">App</tspan></text>
+      <image width="266" height="169" transform="translate(53.49 27.4) scale(.46)" xlink:href="data:image/png;base64,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"/>
+    </g>
+  </g>
+</svg>
